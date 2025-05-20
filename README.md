@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Kummar-Developer&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Kummar-Developer&theme=darkhub&no-frame=false&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
