@@ -19,14 +19,14 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=%236DA55F)
-![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=%234EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=%2300f)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=%23F05033)
-![VS Code](https://img.shields.io/badge/VS%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
-![ChatGPT](https://img.shields.io/badge/AI%20Tools-ffffff?style=for-the-badge&logo=openai&logoColor=green)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
+![ChatGPT](https://img.shields.io/badge/AI%20Tools-ChatGPT-green?style=for-the-badge&logo=openai)
 
 ---
 
@@ -57,9 +57,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/priyanshu-kumar-287a59345/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Google-Chrome&logoColor=black)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:priyanshujaiswara@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-287a59345/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshujaiswara@email.com)
 
 ---
 
