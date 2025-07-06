@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">Final-year BCA Student | MERN Stack Developer | AI Tools Enthusiast</h3>
+<h3 align="center">BCA Graduate | MERN Stack Developer | AI Tools Enthusiast</h3>
 
 ---
 
